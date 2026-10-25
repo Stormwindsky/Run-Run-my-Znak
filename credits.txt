@@ -1,0 +1,26 @@
+All sprites are made by Stormwindsky under license CC0 1.0
+
+All code sources are open source under license MIT-0
+
+Sounds & Music are from Freesound.org & OpenGameArt.org
+
+Spring Spring, Zane Little Music, hanzlab, ani_music, jalastram, Mikes-MultiMedia
+
+source here:
+
+https://opengameart.org/content/power-up-sound-effects
+
+https://opengameart.org/content/on-the-run-day-19
+
+https://opengameart.org/content/arcadesoundtracks
+
+https://opengameart.org/content/8-bit-jump-1
+
+https://freesound.org/people/Mikes-MultiMedia/sounds/531245/
+
+
+Font i used is made by the user GGBotNet
+
+can be found here:
+
+https://ggbot.itch.io/ggbotnet-fonts-cc0

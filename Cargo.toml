@@ -1,0 +1,12 @@
+[package]
+name = "run-run-my-znak"
+version = "0.1.0"
+edition = "2021"
+authors = ["Stormwindsky"]
+description = "A Dino Run clone titled Run Run my Znak"
+license = "MIT-0 (only for source codes) & CC0 1.0 Universal (only for Assets like, Musics, Sprites, Font, etc)"
+
+[dependencies]
+macroquad = { version = "0.4", features = ["audio"] }
+resvg = "0.40"
+open = "5.0"
